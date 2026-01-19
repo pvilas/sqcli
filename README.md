@@ -8,7 +8,7 @@ sqcli emulates the sqlite3 CLI experience while adding all these advantages. It 
 The only changes are:
 
 * Use `shift+left arrow` and `shift+right arrow` to navigate the history.
-* When editing a sentence, you can send it by terminating the line with a ; or `Alt+Enter`
+* When editing a sentence, you can send it by terminating the line with a ;  and pressing `Enter` or `Alt+Enter` at any point.
 
 This software was built with the help of AI.
 
