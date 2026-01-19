@@ -23,7 +23,7 @@ uv init
 uv run sqcli.py
 ```
 
-or you can create the executable with
+once installed, you can create the executable with
 
 ```
 source create.sh
