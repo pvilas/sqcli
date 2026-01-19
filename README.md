@@ -10,6 +10,9 @@ The only changes are:
 * Use `shift+left arrow` and `shift+right arrow` to navigate the history.
 * When editing a sentence, you can send it by terminating the line with a ;  and pressing `Enter` or `Alt+Enter` at any point.
 
+
+It has no .mode or .headers command because it is implicit.
+
 This software was built with the help of AI.
 
 I hope you enjoy using it.
